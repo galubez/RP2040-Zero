@@ -1,3 +1,9 @@
+/*
+Einen Code für arduino IDE für den Mikrocontroller RP2040-Zero. 
+Bibliothek NeoPixel zur Steuerung des PIN 16 mit RGB LED. 
+Die Farben der RGB ändern sich langsam.
+*/
+
 #include <Adafruit_NeoPixel.h>
 
 #define PIN 16 // Pin, an dem die NeoPixel LED angeschlossen ist
